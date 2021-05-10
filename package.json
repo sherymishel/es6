@@ -1,7 +1,7 @@
 {
   "name": "street-fighter",
   "version": "1.0.0",
-  "description": "`npm install`",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -23,13 +23,5 @@
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sherymishel/stage-2-es6.git"
-  },
-  "bugs": {
-    "url": "https://github.com/sherymishel/stage-2-es6/issues"
-  },
-  "homepage": "https://github.com/sherymishel/stage-2-es6#readme"
+  }
 }
